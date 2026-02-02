@@ -1,0 +1,11 @@
+{
+  "EventType": "Registration",
+  "Timestamp": "2026-01-30T18:33:39.7758564Z",
+  "Data": {
+    "RegistrationId": 1,
+    "EventId": 1,
+    "ParticipantId": 1,
+    "Status": "registered",
+    "RegistrationTime": "2026-01-30T18:33:39.7733328Z"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "Timestamp": "2026-01-31T01:02:39.1939599Z",
+  "EventId": 3,
+  "EventName": "konf1",
+  "Status": "Planowane",
+  "TotalRegistrations": 1,
+  "CheckedInCount": 0,
+  "WaitingListCount": 0,
+  "ActiveSessionsCount": 0
+}
+{
+  "Timestamp": "2026-01-31T01:02:39.1999091Z",
+  "EventId": 3,
+  "EventName": "konf1",
+  "Status": "Planowane",
+  "TotalRegistrations": 1,
+  "CheckedInCount": 0,
+  "WaitingListCount": 0,
+  "ActiveSessionsCount": 0
+}
+{
+  "Timestamp": "2026-01-31T01:04:17.1713727Z",
+  "EventId": 3,
+  "EventName": "konf1",
+  "Status": "Planowane",
+  "TotalRegistrations": 1,
+  "CheckedInCount": 0,
+  "WaitingListCount": 0,
+  "ActiveSessionsCount": 0
+}
+{
+  "Timestamp": "2026-01-31T01:04:17.1857107Z",
+  "EventId": 3,
+  "EventName": "konf1",
+  "Status": "Planowane",
+  "TotalRegistrations": 1,
+  "CheckedInCount": 0,
+  "WaitingListCount": 0,
+  "ActiveSessionsCount": 0
+}
+{
+  "Timestamp": "2026-01-31T01:04:22.140857Z",
+  "EventId": 3,
+  "EventName": "konf1",
+  "Status": "Planowane",
+  "TotalRegistrations": 1,
+  "CheckedInCount": 0,
+  "WaitingListCount": 0,
+  "ActiveSessionsCount": 0
+}

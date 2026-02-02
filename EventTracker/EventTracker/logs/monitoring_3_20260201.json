@@ -1,0 +1,20 @@
+{
+  "Timestamp": "2026-02-01T11:51:06.0122026Z",
+  "EventId": 3,
+  "EventName": "konf1",
+  "Status": "Planowane",
+  "TotalRegistrations": 1,
+  "CheckedInCount": 0,
+  "WaitingListCount": 0,
+  "ActiveSessionsCount": 0
+}
+{
+  "Timestamp": "2026-02-01T11:51:06.0167385Z",
+  "EventId": 3,
+  "EventName": "konf1",
+  "Status": "Planowane",
+  "TotalRegistrations": 1,
+  "CheckedInCount": 0,
+  "WaitingListCount": 0,
+  "ActiveSessionsCount": 0
+}
